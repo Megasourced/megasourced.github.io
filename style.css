@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'Merriweather-Regular';
-    src: url(./fonts/Merriweather-Regular.ttf);
+    src: url(https://fonts.googleapis.com/css?family=Merriweather);
 }
 
 @font-face {
     font-family: 'NotoSans-Regular';
-    src: url(./fonts/NotoSans-Regular.ttf);
+    src: url(https://fonts.googleapis.com/css?family=NotoSans);
 }
 
 :root[theme="default"] {
     --main-background-color: #f4f4f4;
 }
 
-#love {
-    font-family: "Merriweather-Regular";
+.love {
+    font-family: Merri, Arial, Helvetica, sans-serif;
     color: aliceblue;
 }
