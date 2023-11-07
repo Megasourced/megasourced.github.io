@@ -11,3 +11,8 @@
 :root[theme="default"] {
     --main-background-color: #f4f4f4;
 }
+
+.love {
+    font-family: "Merriweather-Regular";
+    color: aliceblue;
+}
